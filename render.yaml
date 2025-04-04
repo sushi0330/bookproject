@@ -2,7 +2,7 @@ database:
   - name: mysitedb
     plan: free
     databaseName: books
-  	user: susumu
+    user: susumu
 services:
   - type: web
     plan: free
